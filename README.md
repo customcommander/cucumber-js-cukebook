@@ -30,7 +30,7 @@ Cucumber sets the context of a step to the [World][doc-world]. If you use an arr
 
 ## Prefer Cucumber expressions over regular expressions
 
-In most cases you don't need regular expressions and you may find Cucumber expressions easier to the eyes.
+In most cases you don't need regular expressions and you may find [Cucumber expressions][cucumber-expressions-doc] easier to the eyes.
 
 ### Exact match
 
@@ -152,3 +152,4 @@ Given I have some books  # amount: (random number between 1 and 10)
 
 [package]: https://github.com/cucumber/cucumber-js
 [doc-world]: https://github.com/cucumber/cucumber-js/blob/master/docs/support_files/world.md
+[cucumber-expressions-doc]: https://cucumber.io/docs/cucumber/cucumber-expressions/
