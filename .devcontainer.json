@@ -1,0 +1,4 @@
+{
+  "name": "cukebook",
+  "image": "node:10-alpine"
+}

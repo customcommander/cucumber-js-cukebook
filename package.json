@@ -1,0 +1,11 @@
+{
+  "name": "cucumber-js-cukebook",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "cucumber": "^6.0.5"
+  },
+  "scripts": {
+    "cukebook": "yarn -s cucumber-js -r cukebook_steps.js cukebook.feature"
+  }
+}
