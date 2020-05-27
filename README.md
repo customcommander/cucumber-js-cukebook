@@ -1,8 +1,6 @@
 # Cukebook
 
-*__As__ a developer in test*<br>
-*__I__ want to know how to design steps efficiently*<br>
-*__So__ that I can focus on more important things*
+This cookbook shows how things _can_ be done so we can focus on automation rather than implementation.
 
 ## Avoid arrow functions
 
